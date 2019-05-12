@@ -1,0 +1,19 @@
+!! ROFI
+rofi.fullscreen: false
+rofi.display-run: Run
+rofi.display-drun: Search
+rofi.font: SpaceMono Nerd Font Mono 18
+rofi.lines: 5
+rofi.fixed-num-lines: true
+rofi.show-icons: true
+rofi.separator-style: none
+rofi.line-padding: 25
+rofi.width: 1920
+rofi.padding: 600
+rofi.bw: 0
+rofi.hide-scrollbar: true
+rofi.color-enabled: true
+rofi.color-normal: argb:00000000, argb:aa6aa4ff, argb:00000000, argb:00000000,argb:aaffffff
+rofi.color-urgent: argb:00000000, argb:aa6aa4ff, argb:00000000, argb:00000000,argb:aaffffff
+rofi.color-active: argb:00000000, argb:aa6aa4ff, argb:00000000, argb:00000000,argb:aaffffff
+rofi.color-window: argb:aa492E7E, argb:aa492E7E, argb:aa492E7E
